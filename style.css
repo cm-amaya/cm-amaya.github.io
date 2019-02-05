@@ -30,6 +30,12 @@
   .header h1 {
     font-size: 50px;
   }
+
+  .imageme{
+    width: 200px;
+    height: 200px;
+    align-self: center;
+  }
   
   /* Style the top navigation bar */
   .topnav {
